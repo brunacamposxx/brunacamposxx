@@ -7,7 +7,7 @@ I'm Bruna Campos and I'm from Rio de Janeiro, Brazil. 🇧🇷
 
  ☑️ SQL
  
- 📆 MongoDB
+ ☑️ MongoDB
  
  📆 NodeJS
 
