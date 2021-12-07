@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm Bruna Campos and I'm from Rio de Janeiro, Brazil. 🇧🇷
+I'm Bruna Campos and I'm a girl from Rio de Janeiro, Brazil.
+Currently living in Novo Hamburgo/RS, south of the country.
 
 🔭 I’m Full Stack Web Development student at [TRYBE](https://www.linkedin.com/school/betrybe/)!
 
@@ -9,8 +10,18 @@ I'm Bruna Campos and I'm from Rio de Janeiro, Brazil. 🇧🇷
  
  ☑️ MongoDB
  
- 📆 NodeJS
+ ☑️ Node.js
+ 
+ ☑️ Express.js
+ 
+ ☑️ Mocha, Cai and Sinon
 
+ 📆 Sockets
+
+
+I also studied Web Development Fundamentals (HTML, CSS, JavaScript, Jest unit tests) and Front-end (React, Redux, Hooks, Context API).
+
+✨ I think about technology as a bridge to connect people. My goal as a developer is to help build solutions through technology that make the future a more fairer, sustainable, humanized place with respect for diversity.
 
 ##
 <div>
