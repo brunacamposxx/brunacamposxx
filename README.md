@@ -21,7 +21,7 @@ Currently living in Novo Hamburgo/RS, south of the country.
 
 I also studied Web Development Fundamentals (HTML, CSS, JavaScript, Jest unit tests) and Front-end (React, Redux, Hooks, Context API).
 
-✨ I think about technology as a bridge to connect people. My goal as a developer is to help build solutions through technology that make the future a more fairer, sustainable, humanized place with respect for diversity.
+✨ I think about technology as a bridge to connect people. My goal as a developer is to help build solutions through technology that make the future a fairer, sustainable, humanized place with respect for diversity.
 
 ##
 <div>
