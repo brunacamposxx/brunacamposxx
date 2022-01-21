@@ -4,20 +4,23 @@ Currently living in Novo Hamburgo/RS, south of the country.
 
 🔭 I’m Full Stack Web Development student at [TRYBE](https://www.linkedin.com/school/betrybe/)!
 
-🧠 I’m currently learning Back-end:
+✔️ I studied Back-end and concluded the module on 01/21/2022
 
  	☑️ SQL
- 
  	☑️ MongoDB
- 
  	☑️ Node.js
- 
  	☑️ Express.js
- 
- 	☑️ Mocha, Cai and Sinon
+ 	☑️ Mocha, Chai and Sinon
+ 	☑️ Sockets
 
- 	📆 Sockets
+🧠 Now I'm learning Computer Science:
 
+	📅 Introduction to Python
+	📅 Object Oriented Programming and Design Patterns
+	📅 Networks and Data Scraping
+	📅 Algorithms
+	📅 Data Structure I: Arrays, Hashmaps and Sets
+	📅 Data Structure II: Lists, Queues, and Stacks
 
 I also studied Web Development Fundamentals (HTML, CSS, JavaScript, Jest unit tests) and Front-end (React, Redux, Hooks, Context API).
 
