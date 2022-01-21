@@ -4,7 +4,7 @@ Currently living in Novo Hamburgo/RS, south of the country.
 
 🔭 I’m Full Stack Web Development student at [TRYBE](https://www.linkedin.com/school/betrybe/)!
 
-👩‍💻 I studied Back-end and concluded the module on 01/21/2022
+👩‍💻 I studied Back-end with Node.js
 
  	✔️ Introduction to SQL
  	✔️ SQL Functions, JOINs, and Normalization
