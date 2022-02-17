@@ -22,10 +22,10 @@ Currently living in Novo Hamburgo/RS, south of the country.
 
 🧠 Now I'm learning Computer Science with graduation scheduled for March 2022
 
-	📅 Introduction to Python
-	📅 Object Oriented Programming and Design Patterns
-	📅 Networks and Data Scraping
-	📅 Algorithms
+	✔️ Introduction to Python
+	✔️ Object Oriented Programming and Design Patterns
+	✔️ Networks and Data Scraping
+	✔️ Algorithms
 	📅 Data Structure I: Arrays, Hashmaps and Sets
 	📅 Data Structure II: Lists, Queues, and Stacks
 
