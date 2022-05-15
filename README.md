@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Bruna Campos and I'm <s>a girl</s> from Rio de Janeiro, Brazil.
+I'm Bruna Campos and I'm from Rio de Janeiro, Brazil.
 Currently living in Novo Hamburgo/RS, south of the country.
 
 🔭 I’m Full Stack Web Development student at [TRYBE](https://www.linkedin.com/school/betrybe/)!
