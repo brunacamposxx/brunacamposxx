@@ -1,35 +1,11 @@
 ## Hi there 👋
 I'm Bruna Campos and I'm from Rio de Janeiro, Brazil.
-Currently living in Novo Hamburgo/RS, south of the country.
 
-🔭 I’m Full Stack Web Development student at [TRYBE](https://www.linkedin.com/school/betrybe/)!
+Software Engineer Intern (Java) @ [Iteris](https://www.iteris.com.br/)
 
-👩‍💻 I studied Back-end with Node.js
+🔭 Computer Science student at edtech [Descomplica](https://descomplica.com.br/faculdade/) and graduated from edtech [TRYBE](https://www.linkedin.com/school/betrybe/) in Full Stack Web Software Development.
 
- 	✔️ Introduction to SQL
- 	✔️ SQL Functions, JOINs, and Normalization
- 	✔️ Database Normalization and Modeling
- 	✔️ Introduction to MongoDB
- 	✔️ MongoDB: Simple and Complex Updates
- 	✔️ MongoDB: Aggregation Framework
-	✔️ Introduction to Web Development with Node.js
-	✔️ Node.js: Service Layer and Rest and Restful Architecture
-	✔️ Authentication and File Upload
-	✔️ Deployment
-	✔️ Architecture: SOLID and ORM
-	✔️ Sockets
-
-
-🧠 Now I'm learning Computer Science with graduation scheduled for March 2022
-
-	✔️ Introduction to Python
-	✔️ Object Oriented Programming and Design Patterns
-	✔️ Networks and Data Scraping
-	✔️ Algorithms
-	📅 Data Structure I: Arrays, Hashmaps and Sets
-	📅 Data Structure II: Lists, Queues, and Stacks
-
-I also studied Web Development Fundamentals (HTML, CSS, JavaScript, Jest unit tests) and Front-end (React, Redux, Hooks, Context API).
+👩‍💻 I studied Back-end with Node.js, a bit of Computer Science with Python and also studied Web Development Fundamentals (HTML, CSS, JavaScript, Jest unit tests) and Front-end with React.
 
 ✨ I think about technology as a bridge to connect people. My goal as a developer is to help build solutions through technology that make the future a fairer, sustainable, humanized place with respect for diversity.
 
