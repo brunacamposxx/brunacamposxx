@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Bruna Campos and I'm from Rio de Janeiro, Brazil.
 
-Software Engineer Intern (Java) @ [Iteris](https://www.iteris.com.br/)
+Software Developer (Java) @ [Mercado Livre](https://www.mercadolivre.com.br/)
 
 🔭 Computer Science student at edtech [Descomplica](https://descomplica.com.br/faculdade/) and graduated from edtech [TRYBE](https://www.linkedin.com/school/betrybe/) in Full Stack Web Software Development.
 
