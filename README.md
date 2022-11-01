@@ -5,8 +5,6 @@ Software Developer (Java) @ [Mercado Livre](https://www.mercadolivre.com.br/)
 
 🔭 Computer Science student at edtech [Descomplica](https://descomplica.com.br/faculdade/) and graduated from edtech [TRYBE](https://www.linkedin.com/school/betrybe/) in Full Stack Web Software Development.
 
-👩‍💻 I studied Back-end with Node.js, a bit of Computer Science with Python and also studied Web Development Fundamentals (HTML, CSS, JavaScript, Jest unit tests) and Front-end with React.
-
 ✨ I think about technology as a bridge to connect people. My goal as a developer is to help build solutions through technology that make the future a fairer, sustainable, humanized place with respect for diversity.
 
 ##
